@@ -5,10 +5,7 @@ Welcome to the DSA with Java repository! This project is dedicated to implementi
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Data Structures](#data-structures)
-- [Algorithms](#algorithms)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
