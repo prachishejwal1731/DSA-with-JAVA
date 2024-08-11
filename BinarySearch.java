@@ -2,7 +2,7 @@ package SearchingAlgo;
 
 import java.util.Arrays;
 import java.util.Scanner; 
-
+// binary 
 public class BinarySearch {
 	public static int  binarySearch(int[] brr,int key) {
 		int start=0;
